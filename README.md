@@ -10,7 +10,6 @@ print(f"factorial  of {num} is: {factorial}")
 # TASK 2
 import math
 num = int(input("enter a number: "))
-
 square_root = math.sqrt(num)
 logarithm = math.log(num)
 sine = math.sin(num)
